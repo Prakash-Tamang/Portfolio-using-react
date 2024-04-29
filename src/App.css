@@ -1,0 +1,3 @@
+.contactInput input{
+    @apply py-4 rounded-lg px-3 text-white bg-tertiary
+}
